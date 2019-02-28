@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.facebook.nifty:nifty-core:0.10.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../tools/apache-maven-3.5.4/repository/com/facebook/nifty/nifty-core/0.10.0/nifty-core-0.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../tools/apache-maven-3.5.4/repository/com/facebook/nifty/nifty-core/0.10.0/nifty-core-0.10.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../tools/apache-maven-3.5.4/repository/com/facebook/nifty/nifty-core/0.10.0/nifty-core-0.10.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
